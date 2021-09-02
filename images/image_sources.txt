@@ -1,0 +1,16 @@
+{
+'001' : 'https://drwakefield.com/news-and-views/variables-that-affect-the-price-of-coffee/',
+'002' : 'https://www.starbucks.com.cn/coffee-blog/en/the-origin-of-coffee-and-its-cultivation/',
+'003' : 'https://dailycoffeenews.com/2013/12/10/lets-talk-robusta-myths-traps-and-truths/',
+'004' : 'https://www.illy.com/en-us/coffee/coffee-preparation/how-to-make-moka-coffee',
+'005' : 'https://www.npr.org/sections/thesalt/2017/06/19/533538555/ethiopias-coffee-farmers-are-on-the-front-lines-of-climate-change',
+'006' : 'https://www.bloomberg.com/news/articles/2017-06-27/the-best-coffee-in-the-world-now-comes-from-yemen',
+'007' : 'https://www.britannica.com/place/Yemen',
+'008' : 'https://www.quora.com/How-well-known-is-it-in-the-US-that-big-coffee-chains-like-Starbucks-do-not-widely-recycle-their-plastic-coffee-cups',
+'009' : 'https://en.wikipedia.org/wiki/Coffee#History',
+'010' : 'https://www.ico.org/',
+'011' : 'https://usda.library.cornell.edu/',
+'012' : 'https://www.macrotrends.net/',
+'013' : 'https://facebook.github.io/prophet/',
+'014' : 'https://mc-stan.org/'
+}
