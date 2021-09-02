@@ -29,14 +29,7 @@ The principle code files are the following:
 
 #### Data
 
-Under this folder, you will find the data used in this project:
-
-|Name|Content|
-|---|---|
-|ICO|Data from the International Coffee Organization website|
-|USDA|Data from the USDA website|
-|Macrotrends|Data from macrotrends.net - the data that was chosen for the project|
-|daily_prices_historical.csv|The cleaned data frame with which we worked|
+Under this folder, you will find the data used in this project: the folder named Macrotrends contains the data from _macrotrends.net_, and the file _daily_prices_historical.csv_ contains the cleaned data frame with which we worked.
 
 #### Images
 
