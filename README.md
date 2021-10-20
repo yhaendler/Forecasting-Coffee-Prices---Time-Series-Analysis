@@ -10,6 +10,10 @@ Generaly Assembly - Immersive Data Science program - May-August 2021 - capstone 
 
 ---
 
+#### 📝 In short: Three Time Series Analysis models were trained on historical coffee price data, with the goal of predicting future prices. The training data was daily coffee prices from the period 1973-2020, and the testing data were the following 259 days. The baseline Mean Absolute Percentage Error (MAPE) was 115.73%. The best models were an ARIMA model and a Recurrent Neural Network (RNN). The ARIMA model had a training MAPE of 47.76% and a testing MAPE of 13.36%. The RNN had a testing MAPE of 10.81%.
+
+---
+
 ### What's in this repository
 
 #### Code
